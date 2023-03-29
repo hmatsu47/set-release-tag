@@ -10,7 +10,7 @@ info:
     email: hmatsu47@gmail.com
   license:
     name: MIT
-    url: 'https://github.com/hmatsu47/select-repository-app/blob/master/LICENSE'
+    url: 'https://github.com/hmatsu47/set-release-tag/blob/master/LICENSE'
   description: リリースタグセット用API
 servers:
   - url: 'http://localhost:3000'
